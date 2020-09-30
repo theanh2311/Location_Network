@@ -1,0 +1,2 @@
+rootProject.name='LT4_android_p2'
+include ':app'
